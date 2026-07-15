@@ -1,1 +1,1 @@
-# MushroomDungeonEncrypted
+[](emperor.png)
