@@ -1,1 +1,1 @@
-[](emperor.png)
+![](emperor.png)
